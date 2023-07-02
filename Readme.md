@@ -1,6 +1,6 @@
 # React Newletter Subscription Template
 
-This is a simple Newletter Subscription Template built with React. It allows users to subscribe and render them a success message if the email is valoid, else it prompt them to provide a valid email address.
+This is a simple Newletter Subscription Template built with React. It allows users to subscribe and render them a success message if the email is valid, else it prompt them to provide a valid email address.
 
 ## Technologies Used
 
@@ -21,7 +21,7 @@ To run the application locally, follow these steps:
 
 ## see live application
 
-[Daytaskapp.netlify.app](https://daytaskapp.netlify.app/)
+[Newsletterng.netlify.app](https://newsletterng.netlify.app/)
 
 ## Contributing
 

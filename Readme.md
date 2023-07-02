@@ -1,13 +1,6 @@
-# React Todo Application
+# React Newletter Subscription Template
 
-This is a simple Todo application built with React. It allows users to manage their tasks and keep track of their todos. The application provides an intuitive user interface where users can add new todos, mark them as completed, and delete them.
-
-## Features
-
-- Add new todos: Users can enter a task description and add it to their list of todos.
-- Mark as completed: Users can mark a todo as completed by checking the checkbox next to it.
-- Delete todos: Users can delete individual todos they no longer need.
-- Responsive design: The application is designed to work well on different screen sizes, including mobile devices.
+This is a simple Newletter Subscription Template built with React. It allows users to subscribe and render them a success message if the email is valoid, else it prompt them to provide a valid email address.
 
 ## Technologies Used
 
@@ -19,17 +12,11 @@ This is a simple Todo application built with React. It allows users to manage th
 
 To run the application locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/Nwafor6/React-TodoApp.git`
-2. Navigate to the project directory: `cd React-TodoApp`
+1. Clone the repository: `git clone https://github.com/Nwafor6/React-Newsletter-Design-Template.git`
+2. Navigate to the project directory: `cd React-Newsletter-Design-Template`
 3. Install the dependencies: `npm install`
 4. Start the development server: `npm start`
 5. Open your browser and visit `http://localhost:3000` to see the application running.
-
-## Usage
-
--Click get started
--Select any of the TodoTags to add new list to the Tag
-- Click the add button below to open the input form and then submit.
 
 
 ## see live application
@@ -39,11 +26,3 @@ To run the application locally, follow these steps:
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvement, please feel free to open an issue or submit a pull request.
-
-## Acknowledgments
-
-- This project was inspired by various Todo applications and serves as a learning project for React.
-- Thanks to the React community for providing helpful documentation and tutorials.
-
-
-Feel free to modify and expand on this template to provide more information specific to your Todo application.
